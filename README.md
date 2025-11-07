@@ -1,8 +1,8 @@
-<img width="450" height="330" alt="image" src="https://github.com/user-attachments/assets/b0fa84d2-2728-45e0-a16a-1a52eba7d167" /># Processamento de Imagem Covid
+# Processamento de Imagem Covid
 
 Este projeto utiliza a biblioteca OpenCV para aplicar diversas técnicas de processamento de imagens em do virús da covid, visando aprimorar a visualização e preparar as imagens para análises posteriores, como detecção ou segmentação de padrões relacionados a condições pulmonares (como as associadas ao COVID-19).
 
-O código está implementado em um Google Collab (Covid.ipynb).
+O código está implementado em um Google Collab mas pode ser aberto no Jupiter Notebook (Covid.ipynb).
 
 🛠️ Tecnologias Utilizadas
 Python
