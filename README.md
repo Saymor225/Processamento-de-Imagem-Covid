@@ -56,11 +56,11 @@ Calcula automaticamente um limiar para converter a imagem em escala de cinza em 
   </p>
   
 - Operações Morfológicas:
-
+ <p allign = center>
   <img width="374" height="559" alt="image" src="https://github.com/user-attachments/assets/4f7cb650-831c-401f-be65-73f97d0fd13d" />
   <img width="445" height="329" alt="image" src="https://github.com/user-attachments/assets/80cbdda7-7089-4a35-8016-4c8727211ee2" />
   <img width="447" height="331" alt="image" src="https://github.com/user-attachments/assets/13c169a0-199b-4050-8ba7-010e1e7d2ef1" />
-
+  </p>
 
 
 Utiliza um kernel 3x3 para aplicar transformações morfológicas focando em Dilatação, Erosão, Abertura ou Fechamento para remover ruído, preencher lacunas ou suavizar contornos.
